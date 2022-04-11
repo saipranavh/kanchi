@@ -905,3 +905,93 @@
 2022-04-08 12:19:31,579:INFO:****start Add customer****
 2022-04-08 12:19:31,579:INFO:****start Add customer****
 2022-04-08 12:19:31,579:INFO:****start Add customer****
+2022-04-11 17:25:11,011:INFO:Test_001_login
+2022-04-11 17:25:11,011:INFO:Test_001_login
+2022-04-11 17:25:11,011:INFO:Test_001_login
+2022-04-11 17:25:11,011:INFO:Test_001_login
+2022-04-11 17:25:11,011:INFO:Test_001_login
+2022-04-11 17:25:11,011:INFO:******************verifying home page title   *****
+2022-04-11 17:25:11,011:INFO:******************verifying home page title   *****
+2022-04-11 17:25:11,011:INFO:******************verifying home page title   *****
+2022-04-11 17:25:11,011:INFO:******************verifying home page title   *****
+2022-04-11 17:25:11,011:INFO:******************verifying home page title   *****
+2022-04-11 17:25:15,004:INFO:****************** home page title test is passed*****
+2022-04-11 17:25:15,004:INFO:****************** home page title test is passed*****
+2022-04-11 17:25:15,004:INFO:****************** home page title test is passed*****
+2022-04-11 17:25:15,004:INFO:****************** home page title test is passed*****
+2022-04-11 17:25:15,004:INFO:****************** home page title test is passed*****
+2022-04-11 17:25:17,125:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:25:17,125:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:25:17,125:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:25:17,125:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:25:17,125:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:25:17,133:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:25:17,133:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:25:17,133:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:25:17,133:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:25:17,133:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:25:27,839:INFO:*********Login successful*********
+2022-04-11 17:25:27,839:INFO:*********Login successful*********
+2022-04-11 17:25:27,839:INFO:*********Login successful*********
+2022-04-11 17:25:27,839:INFO:*********Login successful*********
+2022-04-11 17:25:27,839:INFO:*********Login successful*********
+2022-04-11 17:25:27,839:INFO:****start Add customer****
+2022-04-11 17:25:27,839:INFO:****start Add customer****
+2022-04-11 17:25:27,839:INFO:****start Add customer****
+2022-04-11 17:25:27,839:INFO:****start Add customer****
+2022-04-11 17:25:27,839:INFO:****start Add customer****
+2022-04-11 17:26:21,535:INFO:The tc search by name is pass
+2022-04-11 17:26:21,535:INFO:The tc search by name is pass
+2022-04-11 17:26:21,535:INFO:The tc search by name is pass
+2022-04-11 17:26:21,535:INFO:The tc search by name is pass
+2022-04-11 17:26:21,535:INFO:The tc search by name is pass
+2022-04-11 17:26:25,498:INFO:Test_001_login
+2022-04-11 17:26:25,498:INFO:Test_001_login
+2022-04-11 17:26:25,498:INFO:Test_001_login
+2022-04-11 17:26:25,498:INFO:Test_001_login
+2022-04-11 17:26:25,498:INFO:Test_001_login
+2022-04-11 17:26:25,498:INFO:******************verifying home page title   *****
+2022-04-11 17:26:25,498:INFO:******************verifying home page title   *****
+2022-04-11 17:26:25,498:INFO:******************verifying home page title   *****
+2022-04-11 17:26:25,498:INFO:******************verifying home page title   *****
+2022-04-11 17:26:25,498:INFO:******************verifying home page title   *****
+2022-04-11 17:28:12,564:INFO:****************** Test_002_DDT_login*****
+2022-04-11 17:28:12,564:INFO:****************** Test_002_DDT_login*****
+2022-04-11 17:28:12,564:INFO:****************** Test_002_DDT_login*****
+2022-04-11 17:28:12,564:INFO:****************** Test_002_DDT_login*****
+2022-04-11 17:28:12,564:INFO:****************** Test_002_DDT_login*****
+2022-04-11 17:28:12,564:INFO:****************** Verifying login page*****
+2022-04-11 17:28:12,564:INFO:****************** Verifying login page*****
+2022-04-11 17:28:12,564:INFO:****************** Verifying login page*****
+2022-04-11 17:28:12,564:INFO:****************** Verifying login page*****
+2022-04-11 17:28:12,564:INFO:****************** Verifying login page*****
+2022-04-11 17:28:36,235:INFO:****Passed***
+2022-04-11 17:28:36,235:INFO:****Passed***
+2022-04-11 17:28:36,235:INFO:****Passed***
+2022-04-11 17:28:36,235:INFO:****Passed***
+2022-04-11 17:28:36,235:INFO:****Passed***
+2022-04-11 17:30:33,561:INFO:**Passed***
+2022-04-11 17:30:33,561:INFO:**Passed***
+2022-04-11 17:30:33,561:INFO:**Passed***
+2022-04-11 17:30:33,561:INFO:**Passed***
+2022-04-11 17:30:33,561:INFO:**Passed***
+2022-04-11 17:30:37,660:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:30:37,660:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:30:37,660:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:30:37,660:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:30:37,660:INFO:*****Test_005_searchCustbyName****
+2022-04-11 17:30:37,660:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:30:37,660:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:30:37,660:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:30:37,660:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:30:37,660:INFO:*********search _customer_by _Name_005*********
+2022-04-11 17:30:48,039:INFO:*********Login successful*********
+2022-04-11 17:30:48,039:INFO:*********Login successful*********
+2022-04-11 17:30:48,039:INFO:*********Login successful*********
+2022-04-11 17:30:48,039:INFO:*********Login successful*********
+2022-04-11 17:30:48,039:INFO:*********Login successful*********
+2022-04-11 17:30:48,039:INFO:****start Add customer****
+2022-04-11 17:30:48,039:INFO:****start Add customer****
+2022-04-11 17:30:48,039:INFO:****start Add customer****
+2022-04-11 17:30:48,039:INFO:****start Add customer****
+2022-04-11 17:30:48,039:INFO:****start Add customer****
