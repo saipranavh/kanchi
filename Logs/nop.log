@@ -1010,3 +1010,8 @@
 2022-04-12 12:32:12,650:INFO:****************** home page title test is passed*****
 2022-04-12 12:32:14,703:INFO:****************** Verifying login page*****
 2022-04-12 12:32:47,772:INFO:****************** hai sathish Login  page title test is passed*****
+2022-04-12 12:47:39,745:INFO:Test_001_login
+2022-04-12 12:47:39,745:INFO:******************verifying home page title   *****
+2022-04-12 12:47:42,294:INFO:****************** home page title test is passed*****
+2022-04-12 12:47:47,809:INFO:****************** Verifying login page*****
+2022-04-12 12:47:56,556:INFO:****************** hai sathish Login  page title test is passed*****
