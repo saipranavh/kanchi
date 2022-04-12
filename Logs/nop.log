@@ -995,3 +995,18 @@
 2022-04-11 17:30:48,039:INFO:****start Add customer****
 2022-04-11 17:30:48,039:INFO:****start Add customer****
 2022-04-11 17:30:48,039:INFO:****start Add customer****
+2022-04-12 12:27:50,370:INFO:Test_001_login
+2022-04-12 12:27:50,370:INFO:******************verifying home page title   *****
+2022-04-12 12:27:52,852:INFO:****************** home page title test is passed*****
+2022-04-12 12:27:55,147:INFO:****************** Verifying login page*****
+2022-04-12 12:28:03,489:INFO:****************** hai sathish Login  page title test is passed*****
+2022-04-12 12:28:22,154:INFO:Test_001_login
+2022-04-12 12:28:22,154:INFO:******************verifying home page title   *****
+2022-04-12 12:28:44,126:INFO:****************** home page title test is passed*****
+2022-04-12 12:28:46,465:INFO:****************** Verifying login page*****
+2022-04-12 12:28:58,409:INFO:****************** hai sathish Login  page title test is passed*****
+2022-04-12 12:32:10,446:INFO:Test_001_login
+2022-04-12 12:32:10,446:INFO:******************verifying home page title   *****
+2022-04-12 12:32:12,650:INFO:****************** home page title test is passed*****
+2022-04-12 12:32:14,703:INFO:****************** Verifying login page*****
+2022-04-12 12:32:47,772:INFO:****************** hai sathish Login  page title test is passed*****
