@@ -1,1 +1,1 @@
-pytest -v -s testCases\test_login.py --browser edge
+pytest -v -s testCases\test_searchbyname.py --browser edge
